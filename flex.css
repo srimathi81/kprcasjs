@@ -1,0 +1,33 @@
+.flex-container{
+    display: flex;
+    list-style:none;
+     justify-content: space-evenly; 
+    color:brown;
+    padding-top:5px;
+    background-color: burlywood;
+    margin-top:5px;
+      
+      
+}
+.flex-container2{
+    display: flex;
+    list-style:none;
+    flex-direction: column;
+     justify-content: space-evenly; 
+    color:brown;
+    padding-top:5px;
+    background-color: burlywood;
+    margin-top:5px;
+    
+      
+}
+.flex-container a{
+    text-decoration:none;  
+}
+.flex-container a:hover{
+    background-color: lightblue;
+    color:white;
+    border-radius: 4px;
+    width:100px;
+
+}
